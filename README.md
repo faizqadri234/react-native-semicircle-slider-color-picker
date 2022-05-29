@@ -1,7 +1,6 @@
 ## react-native-semicircle-slider-color-picker
 
-A pure JavaScript `<Slider>` component for react-native. This is still very much a work
-in progress, ideas and contributions are very welcome.
+This component is actually a semi circle slider but it is designed in this way that you can use it as color picker too.
 
 <img src="https://github.com/faizqadri234/react-native-semicircle-slider-color-picker/blob/main/SemiCircleSlider/screenshot/screenshot.png" width="375">
 
