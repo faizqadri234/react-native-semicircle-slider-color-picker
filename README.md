@@ -19,7 +19,7 @@ import {
   Text, 
   StyleSheet,
 } from 'react-native';
-import SemiCircleSlider from 'react-native-semicircle-slider-color-picker';
+import ColorPickerSlider from 'react-native-semicircle-slider-color-picker';
 
 const App = () => {
 
@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <SafeAreaView style={styles.mainContainer}>
-      <SemiCircleSlider
+      <ColorPickerSlider
             thumbColor={color?.hexColor?? 'grey'}
             trackStrokeWidth={20}
             gestureDisabled={false}
