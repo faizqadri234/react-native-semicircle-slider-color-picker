@@ -1,5 +1,5 @@
 /**
- * @author Muhammad Faiz    <faizqadri234@gmail.com>
+ * @author Muhammad Faiz <faizqadri234@gmail.com>
  * This component is actually a semi circle slider but it is designed in this way that you can use it as color picker too
  * This component takes following parameters.
  *
