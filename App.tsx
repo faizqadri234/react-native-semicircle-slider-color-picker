@@ -20,6 +20,7 @@ const App = () => {
   const [color, setColor] = useState()
 
   const colorChanged = (value: number) => {
+    //console.log('here is value', value)
     setColorValue(value)
   };
 
